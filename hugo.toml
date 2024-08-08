@@ -1,5 +1,5 @@
-title = "Parkers Blog"
-baseURL = "http://parkervcp.github.io/"
+title = "Broduers Blog"
+baseURL = "https://broduer.github.io/"
 
 defaultContentLanguage = "en"
 languageCode = "en"
@@ -30,9 +30,9 @@ metaKeywords = ["blog", "gokarna", "hugo"]
 footer = "parkervcp"
 
 socialIcons = [
-    { name = "twitch", url = "twitch.tv/parkervcp" },
-    { name = "linkedin", url = "https://www.linkedin.com/in/parkervcp/" },
-    { name = "twitter", url = "https://twitter.com/parkervcp" },
+    { name = "twitch", url = "twitch.tv/broduerx" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/broduer/" },
+    { name = "twitter", url = "https://twitter.com/broduer" },
 ]
 
 [security]
