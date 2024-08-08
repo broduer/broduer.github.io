@@ -1,5 +1,5 @@
 title = "Broduers Blog"
-baseURL = "https://broduer.github.io/"
+baseURL = "http://broduer.github.io/"
 
 defaultContentLanguage = "en"
 languageCode = "en"
@@ -68,7 +68,7 @@ weight = 4
 [[menu.main]]
 name = "Extra Life"
 identifier = "extra-life"
-url = "https://el.pvcp.co/"
+url = "https://aogamers.net/"
 weight = 5
 
 [[menu.main]]
