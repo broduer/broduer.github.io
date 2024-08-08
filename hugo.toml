@@ -74,5 +74,5 @@ weight = 5
 [[menu.main]]
 identifier = "github"
 pre = "<span data-feather='github'></span>"
-url = "https://github.com/parkervcp"
+url = "https://github.com/broduer"
 weight = 6
