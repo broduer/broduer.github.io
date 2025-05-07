@@ -27,7 +27,7 @@ showPostsOnHomePage = "recent"
 # Keywords relevant for SEO
 metaKeywords = ["blog", "gokarna", "hugo"]
 
-footer = "parkervcp"
+footer = "broduer"
 
 socialIcons = [
     { name = "twitch", url = "twitch.tv/broduerx" },
